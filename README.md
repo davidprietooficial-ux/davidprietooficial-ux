@@ -17,7 +17,7 @@
 ## `~/` whoami
 
 ```console
-$ cat about.txt
+$ seiko about.txt
 ```
 
 Junior frontend developer focused on visually striking websites with embedded, optimized video.
