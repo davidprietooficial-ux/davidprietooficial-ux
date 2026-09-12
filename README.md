@@ -17,7 +17,7 @@
 ## `~/` whoami
 
 ```console
-$ cat about.txt
+$ seiko about.txt
 ```
 
 Frontend developer en formación, viniendo de 4+ años como productor audiovisual y editor de video.
