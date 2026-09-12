@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/266908056?v=4&s=200" width="150" alt="David Prieto">
+
+<br>
+
 <a href="https://github.com/davidprietooficial-ux">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=David+Prieto;Junior+Frontend+Developer;React+%C2%B7+TypeScript+%C2%B7+Next.js;Video-driven+web" alt="typing banner">
 </a>
@@ -17,7 +21,7 @@
 ## `~/` whoami
 
 ```console
-$ seiko about.txt
+$ cat about.txt
 ```
 
 Junior frontend developer focused on visually striking websites with embedded, optimized video.
