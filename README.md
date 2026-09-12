@@ -20,7 +20,7 @@
 $ cat about.txt
 ```
 
-Frontend developer en formación, viniendo de 6+ años como productor audiovisual y editor de video.
+Frontend developer en formación, viniendo de 4+ años como productor audiovisual y editor de video.
 Construyo interfaces con foco en performance de video y motion — la parte del stack que la mayoría
 de devs junior no domina de fábrica.
 
