@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/266908056?v=4&s=200" width="150" alt="David Prieto">
+<img src="assets/portrait.svg" width="200" alt="David Prieto">
 
 <br>
 
@@ -21,7 +21,7 @@
 ## `~/` whoami
 
 ```console
-$ seiko about.txt
+$ cat about.txt
 ```
 
 Junior frontend developer focused on visually striking websites with embedded, optimized video.
